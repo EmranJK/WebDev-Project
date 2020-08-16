@@ -1,7 +1,7 @@
 # WebDev-Project
 
-Simple web developement project.
+* Simple web developement project.
 
-Contains various eleements of HTML and CSS.
+* Contains various eleements of HTML and CSS.
 
-Inter2 project contains semantic UI as well.
+* Inter2 project contains semantic UI as well.

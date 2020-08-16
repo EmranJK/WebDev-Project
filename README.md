@@ -4,4 +4,4 @@
 
 * Contains various eleements of HTML and CSS.
 
-* Inter UI project contains semantic UI as well.
+* Inter UI project contains Semantic UI as well.

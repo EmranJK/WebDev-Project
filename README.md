@@ -4,4 +4,4 @@
 
 * Contains various eleements of HTML and CSS.
 
-* Inter2 project contains semantic UI as well.
+* Inter UI project contains semantic UI as well.

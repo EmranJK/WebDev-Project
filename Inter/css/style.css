@@ -1,0 +1,409 @@
+body{
+    background-image:url(https://images6.alphacoders.com/987/987467.png);
+    background-size:cover;
+    background-attachment:fixed;
+}
+header{
+    text-align: center;
+    position:inherit;
+    overflow: auto
+}
+
+
+h2 a.Z
+{
+    
+    border: 0.1em solid;
+    padding: 0.5em;
+    background-color: green;
+    border-radius:2em ;
+    background: radial-gradient(circle, #3080B9,black);
+    
+    overflow: auto;
+}
+.YY
+{
+    border: 0.1em solid black;
+    border-radius:1em;
+    background:  linear-gradient(to right, red,orange,yellow,white,yellow,orange,red);
+    font-size: 2em;
+}
+
+h2 a.Z:hover
+{
+    
+background: linear-gradient(to left, red, white,green);
+}
+
+
+
+div.VX
+{
+    text-align: center;
+}
+
+.ERE
+{
+    background: radial-gradient(circle, #3080B9,black);
+       border: 0.5em solid black;
+        border-radius:2em;
+    margin:1em;
+}
+
+p
+{
+    font-size:1.5em;
+    font-weight: bolder;
+}
+
+
+.ES
+{
+ border: 0.5em dashed;
+    border-radius: 3em;
+    margin:0em 0em 1em 0em;   
+}
+
+.T
+{
+    border: 0.5em dashed;
+    border-radius: 3em;
+    margin:2em 0em 1em 0em;
+}
+
+.TRT
+{
+    border: 0.5em dashed;
+    border-radius: 3em;
+}
+
+.TRT1
+{
+    border: 0.5em dashed;
+    border-radius: 3em; 
+    margin:1em 0em 0em 2em;
+}
+
+
+.TRT2
+{
+    border: 0.5em dashed;
+    border-radius: 3em;
+}
+
+
+nav
+{
+    border: solid black;
+   padding:1em 0em 1em 0em;
+     background: radial-gradient(circle, #2874A6,black);
+    border-radius: 3em;
+    text-align: center;
+}
+section
+{
+    margin: 1em 0em  0em 0em;
+     border: 0.1em solid;
+    border-radius: 3em;
+    padding: 0em 15em 0em 15em;
+     background: radial-gradient(circle, #27AE60,black);
+    position:inherit;
+    overflow: auto;
+    text-align:center;
+    
+    
+}
+
+
+.Q
+{
+    background: radial-gradient(circle, yellow,black);
+}
+
+.PO
+{
+    border: 0.5em dashed;
+    border-radius: 3em;
+}
+
+.PIT
+{
+    border: 0.5em dashed;
+    border-radius: 3em; margin:1em 0em 0em 2em;
+}
+
+
+
+footer
+{
+    padding:1em;
+    margin:1em;
+    background-color:black;
+    color:grey;
+    border-radius: 1em;
+    position:inherit;
+    overflow: auto
+    
+}
+ul
+{
+    
+    list-style:circle;
+}
+h1
+{
+    background: linear-gradient(to left, red, white,green);
+    border-radius: 1em;
+    border:0.1em solid black;    
+}
+q
+{
+    color:gold;
+    font-style:italic;
+    
+}
+figure
+{
+    
+ 
+    text-align: center;
+        
+        
+}
+figcaption
+{
+    background: linear-gradient(to left, red, white,green);
+    border-radius:1em;
+    font-weight: bold;
+    margin:1em 0em 1em 0em
+    
+    
+}
+table
+{
+    text-align: center;
+    border:0.1em solid black;
+    padding:0.5em;
+    margin:1em 0em 1em 0em;
+    border-radius:2em;
+     background: linear-gradient(to top left, white,darkturquoise);   
+}
+th
+{
+    
+    border:0.1em solid black;
+    border-radius:2em;
+    padding:1.3em;
+    font-size: 1.6em;
+    
+}
+td
+{
+    border:0.1em solid black;
+    border-radius:2em;
+    padding:0em 2.7em 0em 2.3em;
+    font-size: 1.1em;
+}
+
+td:nth-of-type(1):hover
+{
+background-image: url(https://static.euronews.com/articles/327553/602x338_327553.jpg);
+    background-size:cover;
+    background-position: center;
+    
+}
+td:nth-of-type(2):hover
+{
+    background-image: 
+url(https://www.footballticketnet.com/files/images/tournaments/Buy-Italian-Serie-A-Football-Tickets-FootballTicketNet.png?v=1565699575);
+    background-size:cover;
+    background-position: center;
+     
+}
+td:nth-of-type(3):hover
+{
+    background-image: 
+url(http://www.lavozderosario.com/wp-content/uploads/2019/06/UEFA-y-CONMEBOL-reactivarian-la-Copa-Intercontinental-800x445.png);
+    background-size:cover;
+    background-position: center;
+}
+td:nth-of-type(4):hover
+{
+    background-image: 
+url(https://storiedicalcio.altervista.org/blog/wp-content/uploads/2019/08/storia-coppa-uefa-777x437.jpg);
+    background-size:cover;
+    background-position: center;
+    
+}
+td:nth-of-type(5):hover
+{
+    background-image: 
+url(http://www.legaseriea.it/uploads/default/attachments/news/news_m/6769/images/gallery/7639/logo-coppa-italia-18-19.jpg);
+    background-size:cover;
+    background-position: center;
+}
+td:nth-of-type(6):hover
+{
+    background-image: 
+url(https://www.spaziocalcio.it/contents/uploads/2018/09/FIFA-Club-World-Cup-2018.jpg);
+    background-size:cover;
+    background-position: center;
+}
+td:nth-of-type(7):hover
+{
+    background-image: 
+url(https://cdn.calciomercato.com/images/2018-08/Logo.Supercoppa.italiana.2018.19.356x237.jpg);
+    background-size:cover;
+    background-position: center;
+}
+td h2 b
+{
+    padding: 0em 1em 0em 1em;
+    color:darkviolet;
+}
+
+a:active
+{
+    color: black;
+     text-decoration: none;
+}
+a:hover
+{
+    color: black;
+     text-decoration: none;
+}
+a:visited
+{
+    color: black;
+     text-decoration: none;
+}
+a:link
+{
+    color: black;
+     text-decoration: none;
+}
+
+
+.T1:hover
+{
+    color:grey;
+    text-decoration: underline;
+}
+
+.T1:active
+{
+       color:grey;
+}
+
+.T1:visited
+{
+       color:grey;
+}
+
+.T1:link
+{
+       color:grey;
+   
+}
+
+li:nth-of-type(1)
+{
+    color:aqua;
+}
+li:nth-of-type(2)
+{
+    color:cornflowerblue;
+}
+li:nth-of-type(3)
+{
+    color:yellow;
+}
+li:nth-of-type(4)
+{
+    color:red;
+}
+
+
+.A1:active
+{
+ color:aqua;
+}
+.A1:hover
+{
+    color:aqua; 
+    text-decoration: underline;
+}
+.A1:visited
+{
+     color:aqua;
+}
+.A1:link
+{
+     color:aqua;
+}
+
+
+
+.A2:active
+{
+ color:cornflowerblue;
+}
+.A2:hover
+{
+    color:cornflowerblue; 
+    text-decoration: underline;
+}
+.A2:visited
+{
+     color:cornflowerblue;
+}
+.A2:link
+{
+     color:cornflowerblue;
+}
+
+
+
+.A3:active
+{
+ color:yellow;
+}
+.A3:hover
+{
+    color:yellow; 
+    text-decoration: underline;
+}
+.A3:visited
+{
+     color:yellow;
+}
+.A3:link
+{
+    color:yellow;
+}
+
+
+
+.A4:active
+{
+ color:red;
+}
+.A4:hover
+{
+    color:red; 
+    text-decoration: underline;
+}
+.A4:visited
+{
+     color:red;
+}
+.A4:link
+{
+     color:red;
+}
+
+
+figcaption
+{
+    font-weight:bold;
+}

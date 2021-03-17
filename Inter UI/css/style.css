@@ -1,0 +1,167 @@
+body{
+    background-image:url(https://images6.alphacoders.com/987/987467.png);
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+header
+{
+    text-align: center;
+    margin: 0em 0em 1em 0em;
+}
+
+.ui.segment
+{
+    padding:1em 0em 1em 0em;
+    text-align: center;
+    
+}
+
+.ui.table.segment
+{
+    text-align: center;
+    border:0.1em solid black;
+    padding:0.5em;
+    
+    border-radius:2em;
+     background: linear-gradient(to top left, white,darkturquoise);   
+    height: 14em;
+    width: 79em
+}
+.ui.table.segment th
+{
+    border:0.1em solid black;
+    border-radius:2em;
+    padding:2em 5em 2em 5em;
+    font-size: 1.6em;
+       
+    
+}
+td
+{
+    border:0.1em solid black;
+ color:blueviolet;
+    border-radius:2em;
+    font-size: 1.1em;
+    height: 12em
+        
+        
+}
+
+td:nth-of-type(1):hover
+{
+background-image: url(https://static.euronews.com/articles/327553/602x338_327553.jpg);
+    background-size:cover;
+    background-position: center;
+    
+}
+td:nth-of-type(2):hover
+{
+    background-image: 
+url(https://www.footballticketnet.com/files/images/tournaments/Buy-Italian-Serie-A-Football-Tickets-FootballTicketNet.png?v=1565699575);
+    background-size:cover;
+    background-position: center;
+     
+}
+td:nth-of-type(3):hover
+{
+    background-image: 
+url(http://www.lavozderosario.com/wp-content/uploads/2019/06/UEFA-y-CONMEBOL-reactivarian-la-Copa-Intercontinental-800x445.png);
+    background-size:cover;
+    background-position: center;
+}
+td:nth-of-type(4):hover
+{
+    background-image: 
+url(https://storiedicalcio.altervista.org/blog/wp-content/uploads/2019/08/storia-coppa-uefa-777x437.jpg);
+    background-size:cover;
+    background-position: center;
+    
+}
+td:nth-of-type(5):hover
+{
+    background-image: 
+url(http://www.legaseriea.it/uploads/default/attachments/news/news_m/6769/images/gallery/7639/logo-coppa-italia-18-19.jpg);
+    background-size:cover;
+    background-position: center;
+}
+td:nth-of-type(6):hover
+{
+    background-image: 
+url(https://www.spaziocalcio.it/contents/uploads/2018/09/FIFA-Club-World-Cup-2018.jpg);
+    background-size:cover;
+    background-position: center;
+}
+td:nth-of-type(7):hover
+{
+    background-image: 
+url(https://cdn.calciomercato.com/images/2018-08/Logo.Supercoppa.italiana.2018.19.356x237.jpg);
+    background-size:cover;
+    background-position: center;
+}
+
+
+p
+{
+    font-size: 1.2em;
+    color:forestgreen;
+}
+b
+{
+    font-size: 1.2em;
+}
+footer
+{
+   text-align: center;
+    
+}
+
+.ui.five.item.pointing.menu .active.item
+{
+    background: linear-gradient(to right, red,orange,yellow,white,yellow,orange,red);
+}
+footer
+{
+       background: radial-gradient(white,grey,black);
+    width: 89em;
+    
+}
+
+
+
+
+.ui.five.item.pointing.menu .item
+{
+    background: linear-gradient(to left, red, white,green);
+}
+.ui.five.item.pointing.menu .item
+{
+    background: radial-gradient(circle, #3080B9,black);
+}
+
+
+
+
+
+
+.ui.five.item.pointing.menu .item:hover
+{
+    background: radial-gradient(circle, #3080B9,black);
+}
+.ui.five.item.pointing.menu .item
+{
+    background: radial-gradient(circle, #3080B9,black);
+}
+
+.ui.five.item.pointing.menu .item:hover
+{
+    background: linear-gradient(to left, red, white,green);
+}
+.ui.five.item.pointing.menu .item:hover
+{
+    background: linear-gradient(to left, red, white,green);
+}
+
+
+
+
